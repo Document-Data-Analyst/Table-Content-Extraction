@@ -25,3 +25,7 @@ Getting Started
 
 •	Dataset is downloaded locally too in the zip file.
 
+# External Download
+
+If find it difficult to execute then download the relevant files from here -> (https://drive.google.com/file/d/1weNTVyfZEPtuFisFnFEb9SyBCdW2x7Dg/view?usp=sharing)
+
