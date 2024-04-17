@@ -4,16 +4,24 @@ In recent years, significant progress has been achieved in understanding and pro
 Getting Started
 # Dependencies
 •	Any operating system ex. Windows 10, Linux
+
 •	Python environment 3.10, jupyter notebook
+
 •	Libraries: TensorFlow, matplotlib, pydot, graphviz, cv2, pandas, pytesseract, reportlab, os, csv, PIL. Itertools.
+
 •	Tesseract-OCR application.
 # Installing
 •	Unzip the folder TableExtractionModel.
+
 •	All supporting files are present in the TableExtractionModel.
+
 # Executing program
+
 •	Run the notebook file Table_Extraction_Model.ipynb
 
 # Dataset Link
+
 •	https://www.icst.pku.edu.cn/cpdp/sjzy/
+
 •	Dataset is downloaded locally too in the zip file.
 
